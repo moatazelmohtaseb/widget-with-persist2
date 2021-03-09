@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "widget-with-persist2"
+  description: "widget-with-persist2"
+  annotations:
+    github.com/project-slug: moatazelmohtaseb/widget-with-persist2
+    backstage.io/techdocs-ref: url:https://github.com/moatazelmohtaseb/widget-with-persist2
+  tags:
+    - af-widget
+    - react
+spec:
+  type: library
+  lifecycle: experimental
+  owner: "user:guest"
