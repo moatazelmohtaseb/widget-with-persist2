@@ -10,6 +10,6 @@ metadata:
     - af-widget
     - react
 spec:
-  type: library
+  type: website
   lifecycle: experimental
   owner: "user:guest"
